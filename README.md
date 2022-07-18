@@ -1,16 +1,17 @@
-### Hi there 👋
+# 👋 Who is heathology?
 
-<!--
-**heathology/heathology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, world! My name is Jesse Heath, aka heathology. I am a self taught web developer and graphic designer. HTML and WordPress are my forte.  
 
-Here are some ideas to get you started:
+<a href="https://www.behance.net/heathj85" target="_blank">[Check Out My Portfolio]</a> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# When I am not developing/programming
+- :tv: I love watching the following: absolutely anything in the MCU, Family Guy, M*A*S*H, NCIS, Bosch/Bosch:Legacy
+- 👀 I’m interested in theology and history. I am actually a historical theologian. I enjoy learning new things (thus my foray into programming and web development).
+- 🌱 I have been completing Harvard's CS50 course which includes studying C, Python, SQL, and Javascript. I am also completing the California Institute for the Arts' certificate in graphic design. Finally, I have been learning a lot thanks to the community at Techlahoma.
+- 💞️ I’m looking to collaborate on web development projects.
+- 📫 You can email me at heathj85@gmail.com or via <a href="https://www.linkedin.com/in/jesse-heath-60382122/">LinkedIn</a>
+
+<!---
+heathology/heathology is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
