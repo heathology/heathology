@@ -2,7 +2,8 @@
 
 Hello, world! My name is Jesse Heath, aka heathology. I am a self taught web developer and graphic designer. HTML and WordPress are my forte.  
 
-<a href="https://www.behance.net/heathj85" target="_blank">[Check Out My Portfolio]</a> 
+<a href="https://www.behance.net/heathj85" target="_blank">[Check Out My Behance Portfolio]</a> 
+<a href="http://heathology.github.io" target="_blank">[Check Out My GitHub Portfolio]</a>
 
 # When I am not developing/programming
 - :tv: I love watching the following: absolutely anything in the MCU, Family Guy, M*A*S*H, NCIS, Bosch/Bosch:Legacy
