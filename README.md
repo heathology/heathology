@@ -7,7 +7,7 @@ Hello, world! My name is Jesse Heath, aka heathology. I am a self taught web dev
 # When I am not developing/programming
 - :tv: I love watching the following: absolutely anything in the MCU, Family Guy, M*A*S*H, NCIS, Bosch/Bosch:Legacy
 - 👀 I’m interested in theology and history. I am actually a historical theologian. I enjoy learning new things (thus my foray into programming and web development).
-- 🌱 I have been completing Harvard's CS50 course which includes studying C, Python, SQL, and Javascript. I am also completing the California Institute for the Arts' certificate in graphic design. Finally, I have been learning a lot thanks to the community at Techlahoma.
+- 🌱 I have been completing Harvard's CS50 course which includes studying C, Python, SQL, and Javascript. I am also completing <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and <a href="https://scrimba.com/">Scrimba</a> certifications. Finally, I have been learning a lot thanks to the community at <a href="https://www.techlahoma.org/">Techlahoma</a>.
 - 💞️ I’m looking to collaborate on web development projects.
 - 📫 You can email me at heathj85@gmail.com or via <a href="https://www.linkedin.com/in/jesse-heath-60382122/">LinkedIn</a>
 
